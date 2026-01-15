@@ -5,6 +5,7 @@
 1. stack layout : https://drive.wrt.moe/uboot/qualcommax
 2. uboot layout :  https://pan.baidu.com/s/1341uqxZab8om_YL9UEJpAA?pwd=2333 from https://steemit.com/cn/@ety001/redmi-ax6
 3. hybrid layout : https://pan.baidu.com/s/1yMrbuHVzy0mXUxVio7kjqA?pwd=whd7 from https://www.youtube.com/watch?v=UbUKgF2BzVY
+4. to be check : https://wwf.lanzn.com/iNrBa20d7ncd from  https://www.right.com.cn/forum/thread-8378593-1-1.html (+instructions)
    
 # 编译指南
 
