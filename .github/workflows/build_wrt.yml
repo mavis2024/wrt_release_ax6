@@ -107,3 +107,9 @@ jobs:
         with:
           name: ${{ env.BUILD_DATE }}_${{ inputs.model }}
           path: ./firmware/*.*
+      # new added 
+      - name: Upload Conifg
+        uses: actions/upload-artifact@v4
+        with:
+          name: Full-Config
+          path: openwrt/.config
