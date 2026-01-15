@@ -4,7 +4,7 @@
 # AX6 UBOOT Resources
 1. stack layout : https://drive.wrt.moe/uboot/qualcommax
 2. uboot layout :  https://pan.baidu.com/s/1341uqxZab8om_YL9UEJpAA?pwd=2333 from https://steemit.com/cn/@ety001/redmi-ax6
-3. hybrid layout : https://pan.baidu.com/s/1yMrbuHVzy0mXUxVio7kjqA?pwd=whd7 https://www.youtube.com/watch?v=UbUKgF2BzVY
+3. hybrid layout : https://pan.baidu.com/s/1yMrbuHVzy0mXUxVio7kjqA?pwd=whd7 from https://www.youtube.com/watch?v=UbUKgF2BzVY
    
 # 编译指南
 
@@ -36,89 +36,16 @@ sudo bash -c 'bash <(curl -sL https://build-scripts.immortalwrt.org/init_build_e
 
 使用 `./build.sh` 脚本进行编译，支持以下设备：
 
-### 京东云
 
-*   **雅典娜(02)、亚瑟(01)、太乙(07)、AX5(JDC版)**:
-    ```bash
-    ./build.sh jdcloud_ipq60xx_immwrt
-    ./build.sh jdcloud_ipq60xx_libwrt
-    ```
-*   **百里**:
-    ```bash
-    ./build.sh jdcloud_ax6000_immwrt
-    ```
-
-### 阿里云
-
-*   **AP8220**:
-    ```bash
-    ./build.sh aliyun_ap8220_immwrt
-    ```
-
-### 领势
-
-*   **MX4200v1、MX4200v2、MX4300**:
-    ```bash
-    ./build.sh linksys_mx4x00_immwrt
-    ```
-
-### 奇虎
-
-*   **360v6**:
-    ```bash
-    ./build.sh qihoo_360v6_immwrt
-    ```
 
 ### 红米
 
-*   **AX5**:
-    ```bash
-    ./build.sh redmi_ax5_immwrt
-    ```
+
 *   **AX6**:
     ```bash
     ./build.sh redmi_ax6_immwrt
     ```
-*   **AX6000**:
-    ```bash
-    ./build.sh redmi_ax6000_immwrt21
-    ```
 
-### CMCC （中国移动）
-
-*   **RAX3000M**:
-    ```bash
-    ./build.sh cmcc_rax3000m_immwrt
-    ```
-
-### 斐讯
-
-*   **N1**:
-    ```bash
-    ./build.sh n1_immwrt
-    ```
-
-### 兆能
-
-*   **M2**:
-    ```bash
-    ./build.sh zn_m2_immwrt
-    ./build.sh zn_m2_libwrt
-    ```
-
-### Gemtek
-
-*   **W1701K**:
-    ```bash
-    ./build.sh gemtek_w1701k_immwrt
-    ```
-
-### 其他
-
-*   **X64**:
-    ```bash
-    ./build.sh x64_immwrt
-    ```
 
 ---
 
