@@ -1,7 +1,11 @@
 # Acknowledge
  thanks https://github.com/ZqinKing/wrt_release to provide the template. 
  this resopsitory is self usage to build ax6 openwrt image
- 
+# AX6 UBOOT Resources
+1. stack layout : https://drive.wrt.moe/uboot/qualcommax
+2. uboot layout :  https://pan.baidu.com/s/1341uqxZab8om_YL9UEJpAA?pwd=2333 from https://steemit.com/cn/@ety001/redmi-ax6
+3. hybrid layout : https://pan.baidu.com/s/1yMrbuHVzy0mXUxVio7kjqA?pwd=whd7 https://www.youtube.com/watch?v=UbUKgF2BzVY
+   
 # 编译指南
 
 ## 1. 环境准备
