@@ -1,3 +1,7 @@
+# Acknowledge
+ thanks https://github.com/ZqinKing/wrt_release to provide the template. 
+ this resopsitory is self usage to build ax6 openwrt image
+ 
 # 编译指南
 
 ## 1. 环境准备
