@@ -14,6 +14,13 @@
 | openwrt **ubootmod** layout | HZFrodo大佬的不死ubootmod(ubi 122.5MB) | [HZFrodo-HZFrodo/uboot-mediatek: add support for Xiaomi Redmi Router AX6000](https://github.com/openwrt/openwrt/commit/1613e3340b829ea9aa6da954bf0ff98214b71751)|
    
 # 编译指南
+## 0. Firmwares
+| name | URL |
+| -| - |
+| openwrt| https://github.com/openwrt/openwrt |
+| x-wrt | https://github.com/x-wrt/x-wrt |
+| Lean | https://github.com/coolsnowwolf/lede |
+| immortal | https://github.com/immortalwrt/immortalwrt |
 
 ## 1. 环境准备
 
