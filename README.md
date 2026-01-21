@@ -22,6 +22,13 @@
 | Lean | https://github.com/coolsnowwolf/lede |
 | immortal | https://github.com/immortalwrt/immortalwrt |
 
+### immortal branch with  proprietary drivers (閉源驅動)
+
+| name | URL|
+| - | - |
+| immortalwrt-mt798x-6.6 | https://github.com/padavanonly/immortalwrt-mt798x-6.6 |
+| hanwckf | https://github.com/hanwckf/immortalwrt-mt798x |
+
 ## 1. 环境准备
 
 首先安装 Linux 系统，推荐 Ubuntu LTS。
