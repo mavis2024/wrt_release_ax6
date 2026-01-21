@@ -6,6 +6,12 @@
 2. uboot layout :  https://pan.baidu.com/s/1341uqxZab8om_YL9UEJpAA?pwd=2333 from https://steemit.com/cn/@ety001/redmi-ax6
 3. hybrid layout : https://pan.baidu.com/s/1yMrbuHVzy0mXUxVio7kjqA?pwd=whd7 from https://www.youtube.com/watch?v=UbUKgF2BzVY
 4. to be check : https://wwf.lanzn.com/iNrBa20d7ncd from  https://www.right.com.cn/forum/thread-8378593-1-1.html (+instructions)
+
+| Layout Name | Description | Link | Support firmware |
+| - | - | - |
+| openwrt **stock** | 保留官方分区刷 | |
+| openwrt **uboot** layout | hanwckf大佬的不死uboot(ubi 110MB) | [hanwckf/bl-mt798x](https://github.com/hanwckf/bl-mt798x) |
+| openwrt **ubootmod** layout | HZFrodo大佬的不死ubootmod(ubi 122.5MB) | [HZFrodo-HZFrodo/uboot-mediatek: add support for Xiaomi Redmi Router AX6000](https://github.com/openwrt/openwrt/commit/1613e3340b829ea9aa6da954bf0ff98214b71751)|
    
 # 编译指南
 
