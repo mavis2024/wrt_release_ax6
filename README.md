@@ -7,7 +7,7 @@
 3. hybrid layout : https://pan.baidu.com/s/1yMrbuHVzy0mXUxVio7kjqA?pwd=whd7 from https://www.youtube.com/watch?v=UbUKgF2BzVY
 4. to be check : https://wwf.lanzn.com/iNrBa20d7ncd from  https://www.right.com.cn/forum/thread-8378593-1-1.html (+instructions)
 
-| Layout Name | Description | Link | Support firmware |
+| Layout Name | Description | Link | 
 | - | - | - |
 | openwrt **stock** | 保留官方分区刷 | |
 | openwrt **uboot** layout | hanwckf大佬的不死uboot(ubi 110MB) | [hanwckf/bl-mt798x](https://github.com/hanwckf/bl-mt798x) |
