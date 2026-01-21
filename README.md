@@ -26,7 +26,7 @@
 
 | name | URL|
 | - | - |
-| immortalwrt-mt798x-6.6 | https://github.com/padavanonly/immortalwrt-mt798x-6.6 |
+| 237大佬 immortalwrt-mt798x-6.6 | https://github.com/padavanonly/immortalwrt-mt798x-6.6 |
 | hanwckf | https://github.com/hanwckf/immortalwrt-mt798x |
 
 ## 1. 环境准备
