@@ -10,7 +10,7 @@
 | Layout Name | Description | Link | 
 | - | - | - |
 | openwrt **stock** | 保留官方分区刷 | |
-| openwrt **uboot** layout | hanwckf大佬的不死uboot(ubi 110MB) |[ATF and u-boot for mt798x](https://github.com/hanwckf/bl-mt798x) <br>[hanwckf/bl-mt798x](https://github.com/hanwckf/bl-mt798x) |
+| openwrt **uboot(immortalwrt-112m)** layout | hanwckf大佬的不死uboot(ubi 110MB) |[ATF and u-boot for mt798x](https://github.com/hanwckf/bl-mt798x) <br>[hanwckf/bl-mt798x](https://github.com/hanwckf/bl-mt798x) |
 | openwrt **ubootmod** layout | HZFrodo大佬的不死ubootmod(ubi 122.5MB) | [HZFrodo-HZFrodo/uboot-mediatek: add support for Xiaomi Redmi Router AX6000](https://github.com/openwrt/openwrt/commit/1613e3340b829ea9aa6da954bf0ff98214b71751)|
    
 # 编译指南
