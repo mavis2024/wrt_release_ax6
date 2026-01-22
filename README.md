@@ -33,6 +33,8 @@
 | example | description | 
 | - | - |
 | https://github.com/DoTheBetter/OpenWrt-Builder | |
+| https://github.com/lgs2007m/Actions-OpenWrt | |
+| https://github.com/Mibore99/OpenWrt_redmi_ax6000 | | 
 
 
 ## 1. 环境准备
