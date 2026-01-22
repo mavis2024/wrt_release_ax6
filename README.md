@@ -26,7 +26,7 @@
 
 | name | URL|
 | - | - |
-| 237大佬 immortalwrt-mt798x-6.6 | https://github.com/padavanonly/immortalwrt-mt798x-6.6 |
+| 237大佬 immortalwrt-mt798x-6.6 | https://github.com/padavanonly/immortalwrt-mt798x-6.6 <br>https://www.right.com.cn/forum/thread-8261104-1-1.html |
 | hanwckf | https://github.com/hanwckf/immortalwrt-mt798x |
 
 ### github actions to build openwrt examples
