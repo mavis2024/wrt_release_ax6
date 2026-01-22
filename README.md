@@ -35,6 +35,8 @@
 | https://github.com/DoTheBetter/OpenWrt-Builder | |
 | https://github.com/lgs2007m/Actions-OpenWrt | |
 | https://github.com/Mibore99/OpenWrt_redmi_ax6000 | | 
+| https://github.com/Tony91590/RM_AX6000_build/tree/master | padavanonly | 
+
 
 
 ## 1. 环境准备
