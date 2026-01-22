@@ -29,6 +29,12 @@
 | 237大佬 immortalwrt-mt798x-6.6 | https://github.com/padavanonly/immortalwrt-mt798x-6.6 |
 | hanwckf | https://github.com/hanwckf/immortalwrt-mt798x |
 
+### github actions to build openwrt examples
+| example | description | 
+| - | - |
+| https://github.com/DoTheBetter/OpenWrt-Builder | |
+
+
 ## 1. 环境准备
 
 首先安装 Linux 系统，推荐 Ubuntu LTS。
